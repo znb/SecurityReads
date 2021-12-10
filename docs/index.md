@@ -10,7 +10,7 @@ interest me.
 
 ### December
 
- (Soon)
+ * [2021-12-06](2021-12-06.md)
 
 ### November
 
