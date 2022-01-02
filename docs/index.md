@@ -4,6 +4,14 @@ This is just a simple repository of things I've found on the Internet that
 interest me.
 
 
+## 2022
+----
+
+## Jan
+
+ * [2022-01-04](2022-01-04.md)
+
+
 
 ## 2021
 ----
